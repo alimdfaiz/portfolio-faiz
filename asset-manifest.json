@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-faiz/static/css/main.37140f65.css",
+    "main.js": "/portfolio-faiz/static/js/main.99b276f8.js",
+    "index.html": "/portfolio-faiz/index.html",
+    "main.37140f65.css.map": "/portfolio-faiz/static/css/main.37140f65.css.map",
+    "main.99b276f8.js.map": "/portfolio-faiz/static/js/main.99b276f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37140f65.css",
+    "static/js/main.99b276f8.js"
+  ]
+}
